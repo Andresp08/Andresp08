@@ -15,9 +15,9 @@
 </div>
 
 
-## 🙋‍♂️ About Me
+## 👩‍💻 Learn more about me:
 
-- 👨‍🎓 Systems Engineer at Unisangil **[Unisangil](https://www.unisangil.edu.co/)**
+- 👨‍🎓 Systems Engineer Student at Unisangil **[Unisangil](https://www.unisangil.edu.co/)**
 - 🏆 I am a self-taught learner 
 - 🎯 I’m currently learning **Next.Js.**
 - ⚽ I like to watch and play soccer.
@@ -52,7 +52,7 @@
   <br/>
 
 
-## ⚡Learn more about me:
+## ⚡ Contact me:
 
 <a href = "https://www.linkedin.com/in/andr%C3%A9s-felipe-pardo-campos-50386121a/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 
