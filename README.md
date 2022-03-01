@@ -27,7 +27,7 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>   
     <a href="https://es.reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png" width="48px"/> </a>
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png" width="48px"/> </a> 
-    <a style="padding-right:8px;" href="https://wordpress.org/" target="_blank"> <img src="<img src="https://img.icons8.com/color-glass/48/000000/wordpress.png" width="48px"/> </a>
+    <a style="padding-right:8px;" href="https://wordpress.org/" target="_blank"> "<img src="https://img.icons8.com/color-glass/48/000000/wordpress.png" width="48px"/> </a>
     <a style="padding-right:8px;" href="https://www.php.net/" target="_blank"> <img src="https://img.icons8.com/dusk/64/000000/php-logo.png" width="48px"/> </a>
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png" width="48px"/> </a>
   
