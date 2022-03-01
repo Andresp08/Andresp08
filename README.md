@@ -26,9 +26,9 @@
     <a href="https://tailwindcss.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/45151760/156216526-2a7f7790-12c9-4e43-b8e3-22ba7ca75286.png"        width="48px"/> </a>
     <a href="https://sass-lang.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/sass.png"/> </a>   
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>   
-    <a href="https://es.reactjs.org/" target="_blank"> <img src="https://user-images.githubusercontent.com/45151760/156216762-687de1a1-f66f-4e6c-b583-fbb98400a97d.png"/> </a>
+    <a href="https://es.reactjs.org/" target="_blank"> <img src="https://user-images.githubusercontent.com/45151760/156216762-687de1a1-f66f-4e6c-b583-fbb98400a97d.png" width="48px"/> </a>
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png" width="48px"/> </a> 
-    <a style="padding-right:8px;" href="https://wordpress.org/" target="_blank"> <img src="<img src="https://img.icons8.com/color-glass/48/000000/wordpress.png"/>" width="48px"/> </a>
+    <a style="padding-right:8px;" href="https://wordpress.org/" target="_blank"> <img src="<img src="https://img.icons8.com/color-glass/48/000000/wordpress.png" width="48px"/> </a>
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/dusk/64/000000/php-logo.png" width="48px"/> </a>
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png" width="48px"/> </a>
   
