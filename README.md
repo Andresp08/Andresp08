@@ -25,7 +25,7 @@
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png" width="48px"/> </a>
     <a href="https://sass-lang.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/sass.png"/> </a>   
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>   
-    <a href="https://es.reactjs.org/" target="_blank"> <img src="https://sass-lang.com/" width="48px"/> </a>
+    <a href="https://es.reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png" width="48px"/> </a>
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png" width="48px"/> </a> 
     <a style="padding-right:8px;" href="https://wordpress.org/" target="_blank"> <img src="<img src="https://img.icons8.com/color-glass/48/000000/wordpress.png" width="48px"/> </a>
     <a style="padding-right:8px;" href="https://www.php.net/" target="_blank"> <img src="https://img.icons8.com/dusk/64/000000/php-logo.png" width="48px"/> </a>
