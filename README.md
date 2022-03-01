@@ -46,7 +46,7 @@
 
   <br/>
   <p align="center">
-    <a href="#"><img alt="Andrés Pardo Github Stats" src="https://github-readme-stats.vercel.app/api?username=Andresp08&theme=merko&show_icons=true&hide_border=true" /></a>
+    <a href="#"><img alt="Andrés Pardo Github Stats" src="https://github-readme-stats.vercel.app/api?username=Andresp08&theme=merko&show_icons=true&hide_border=true&count_private=true" /></a>
     <a href="#"><img alt="Andrés Pardo Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andresp08&layout=compact&theme=merko&hide_border=true" /></a>
   </p>
   <br/>
