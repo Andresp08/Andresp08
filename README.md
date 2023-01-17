@@ -17,9 +17,9 @@
 
 ## 👩‍💻 Learn more about me:
 
-- 👨‍🎓 Systems Engineer Student at Unisangil **[Unisangil](https://www.unisangil.edu.co/)**
+- 👨‍🎓 Systems Engineer
 - 🏆 I am a self-taught learner 
-- 🎯 I’m currently learning **Next.Js.**
+- 🎯 I’m currently learning **Nest.Js.**
 - ⚽ I like to watch and play soccer.
 - 📫 You can mail me at **Andresfp292@gmail.com**
 
