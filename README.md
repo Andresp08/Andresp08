@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hey , I'm Andrés Pardo <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="24px"></h1>
-<h3 align="center">I am a Systems Engineering Student and I like Software Development.</h3>
+<h3 align="center">I am a Systems Engineer and I like Software Development.</h3>
 
 <div class='center'> 
 
