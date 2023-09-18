@@ -19,7 +19,7 @@
 
 - 👨‍🎓 Systems Engineer
 - 🏆 I am a self-taught learner 
-- 🎯 I’m currently learning **Nest.Js.**
+- 🎯 I’m currently working with **SpringBoot.**
 - ⚽ I like to watch and play soccer.
 - 📫 You can mail me at **Andresfp292@gmail.com**
 
