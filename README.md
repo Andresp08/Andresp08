@@ -8,7 +8,7 @@
 ```js
     const andresp08 = {
         technologies: 'web',
-        passions: ['web development', 'football']
+        passions: ['Backend development', 'football']
     }
 ```
 
