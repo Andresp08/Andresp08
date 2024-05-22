@@ -19,16 +19,16 @@
 
 - 👨‍🎓 Systems Engineer
 - 🏆 I am a self-taught learner 
-- 🎯 I’m currently working with **SpringBoot.**
+- 🎯 I’m currently working with **Java SpringBoot - Angular - Micorservices Architecture.**
 - ⚽ I like to watch and play soccer.
-- 📫 You can mail me at **Andresfp292@gmail.com**
+- 📫 You can mail me at **andresfp292@gmail.com**
 
 
 ## 🚀 Languages and Tools:
 
 <br/>
 <p align="center"> 
-    <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://spring.io/images/projects/spring-boot-7f2e24fb962501672cc91ccd285ed2ba.svg" width="48px"/> </a>
+    <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="[https://spring.io/images/projects/spring-boot-7f2e24fb962501672cc91ccd285ed2ba.svg](https://mldmzpxpbp0x.i.optimole.com/miaE6n8-TKi784P4/w:auto/h:auto/q:auto/https://www.yessinfotech.com/wp-content/uploads/2019/11/spring-boot-logo.png)" width="48px"/> </a>
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png" width="48px"/> </a>
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png" width="48px"/> </a> 
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png" width="48px"/> </a>
