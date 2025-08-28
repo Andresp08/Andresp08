@@ -7,7 +7,7 @@
 
 ```js
     const andresp08 = {
-        technologies: 'web',
+        technologies: 'cloud, frontend, backend',
         passions: ['Backend development', 'football']
     }
 ```
