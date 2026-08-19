@@ -65,7 +65,11 @@ public record Andres(String role, String base, List<String> stack) {
 ### ⛅ Right now in San Gil
 
 <!-- WEATHER:START -->
-_El widget del clima aparecerá aquí después de la primera corrida del workflow._
+| 🌦️ Condition | 🌡️ Temp | 🤔 Feels like | 💧 Humidity | 💨 Wind | 🌅 Sunrise | 🌇 Sunset |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Light Rain | 24°C | 25°C | 77% | 1.1 m/s | 05:46 | 18:05 |
+
+<sub>📍 San Gil · last updated Wednesday, 19 Aug 2026 at 17:55 (auto-refreshed every 6h by GitHub Actions)</sub>
 <!-- WEATHER:END -->
 
 </div>
