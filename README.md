@@ -1,60 +1,177 @@
+<div align="center">
 
+<!-- ══ ENCABEZADO ANIMADO ══ -->
+<a href="https://github.com/andresp08">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1200&color=58A6FF&center=true&vCenter=true&width=620&lines=Hi%2C%20I%27m%20Andr%C3%A9s%20%F0%9F%91%8B%3BSoftware%20Engineer%20%C2%B7%20Java%20%26%20Spring%20Boot%3BBackend%20services%2C%20cleanly%20built%3BBringing%20LLMs%20into%20Java%20services" alt="Andrés Pardo" />
+</a>
 
-<h1 align="center">Hey , I'm Andrés Pardo <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="24px"></h1>
-<h3 align="center">I am a Systems Engineer and I like Software Development.</h3>
+<!-- ══ CONTACTO ══ -->
+<p>
+  <a href="https://www.linkedin.com/in/andr%C3%A9s-felipe-pardo-campos-50386121a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:andresfp292@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/andresp08/PersonalPortfolio"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Portfolio" /></a>
+</p>
 
-<div class='center'> 
-
-```js
-    const andresp08 = {
-        technologies: 'cloud, frontend, backend',
-        passions: ['Backend development', 'football']
-    }
-```
+<p>
+  <img src="https://komarev.com/ghpvc/?username=andresp08&style=flat-square&color=58A6FF&label=profile+views" alt="Profile views" />
+  <a href="https://github.com/andresp08?tab=followers"><img src="https://img.shields.io/github/followers/andresp08?style=flat-square&color=58A6FF&labelColor=1c1917" alt="Followers" /></a>
+  <a href="https://github.com/andresp08?tab=repositories&sort=stargazers"><img src="https://img.shields.io/github/stars/andresp08?style=flat-square&color=58A6FF&labelColor=1c1917" alt="Stars" /></a>
+</p>
 
 </div>
 
+---
 
-## 👩‍💻 Learn more about me:
+## 👨‍💻 About me
 
-- 👨‍🎓 Systems Engineer
-- 🏆 I am a self-taught learner 
-- 🎯 I’m currently working with **Java SpringBoot - Angular - Micorservices Architecture.**
-- ⚽ I like to watch and play soccer.
-- 📫 You can mail me at **andresfp292@gmail.com**
+Backend-focused software engineer from Colombia. I build services with **Java and
+Spring Boot**, work across the stack with **Angular** when a project needs it, and
+care about the part most people skip: keeping a codebase understandable after the
+first release.
 
+```java
+public record Andres(String role, String base, List<String> stack) {
 
-## 🚀 Languages and Tools:
+    static Andres profile() {
+        return new Andres(
+            "Software Engineer",
+            "San Gil, Colombia",
+            List.of("Java", "Spring Boot", "Angular", "Microservices")
+        );
+    }
 
-<br/>
-<p align="center"> 
-    <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="[https://spring.io/images/projects/spring-boot-7f2e24fb962501672cc91ccd285ed2ba.svg](https://mldmzpxpbp0x.i.optimole.com/miaE6n8-TKi784P4/w:auto/h:auto/q:auto/https://www.yessinfotech.com/wp-content/uploads/2019/11/spring-boot-logo.png)" width="48px"/> </a>
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png" width="48px"/> </a>
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png" width="48px"/> </a> 
-    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png" width="48px"/> </a>
-    <a href="https://sass-lang.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/sass.png"/> </a>   
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>   
-    <a href="https://es.reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png" width="48px"/> </a>
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png" width="48px"/> </a> 
-    <a style="padding-right:8px;" href="https://wordpress.org/" target="_blank"> <img src="https://img.icons8.com/color-glass/48/000000/wordpress.png" width="48px"/> </a>
-    <a style="padding-right:8px;" href="https://www.php.net/" target="_blank"> <img src="https://img.icons8.com/dusk/64/000000/php-logo.png" width="48px"/> </a>
-    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png" width="48px"/> </a>
-  
-</p>
+    String currentFocus() {
+        return "Designing backend services that stay simple as they grow";
+    }
 
+    String exploring() {
+        return "Spring AI — retrieval and LLM-backed endpoints on the JVM";
+    }
+}
+```
 
-## 📊 My Github Stats
+- 🎯 **Day to day:** Java · Spring Boot · REST APIs · microservices · MySQL
+- 🧱 **Care about:** clean architecture, testing, and code that survives handoff
+- 🧠 **Currently exploring:** **Spring AI** — adding retrieval and LLM-backed
+  endpoints to Java services
+- 🎓 Systems Engineering graduate, largely self-taught in practice
+- 🤝 Open to backend and open-source collaboration
+- ⚽ Away from the keyboard: football
+- 📫 **andresfp292@gmail.com**
 
-  <br/>
-  <p align="center">
-    <a href="#"><img alt="Andrés Pardo Github Stats" src="https://github-readme-stats.vercel.app/api?username=Andresp08&theme=merko&show_icons=true&hide_border=true&count_private=true" /></a>
-    <a href="#"><img alt="Andrés Pardo Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andresp08&layout=compact&theme=merko&hide_border=true" /></a>
-  </p>
-  <br/>
+<!-- ══ CLIMA EN VIVO — lo actualiza .github/workflows/weather.yml ══ -->
+<div align="center">
 
+### ⛅ Right now in San Gil
 
-## ⚡ Contact me:
+<!-- WEATHER:START -->
+_El widget del clima aparecerá aquí después de la primera corrida del workflow._
+<!-- WEATHER:END -->
 
-<a href = "https://www.linkedin.com/in/andr%C3%A9s-felipe-pardo-campos-50386121a/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+</div>
 
+---
 
+## 🚀 Languages and Tools
+
+<div align="center">
+
+**Working with**
+
+<img src="https://skillicons.dev/icons?i=java,spring,angular,ts,js,html,css,sass,bootstrap,mysql,git&theme=dark" alt="Main stack" />
+
+**Learning**
+
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,postgres,redis,nextjs&theme=dark" alt="Learning" />
+
+**Daily drivers**
+
+<img src="https://skillicons.dev/icons?i=idea,vscode,postman,github,linux&theme=dark" alt="Tools" />
+
+</div>
+
+---
+
+## 📊 My GitHub stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=andresp08&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=github_dark&title_color=58A6FF&icon_color=58A6FF&bg_color=0D1117" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andresp08&layout=compact&langs_count=8&hide_border=true&theme=github_dark&title_color=58A6FF&bg_color=0D1117" alt="Top languages" />
+
+<img height="165" src="https://streak-stats.demolab.com?user=andresp08&hide_border=true&theme=github-dark&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&background=0D1117" alt="Streak" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=andresp08&theme=github-compact&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true" alt="Contribution activity graph" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=andresp08&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7" alt="Trophies" />
+
+</div>
+
+---
+
+## 🧊 Contribution art
+
+<div align="center">
+
+<!-- Calendario 3D — lo regenera .github/workflows/profile-3d.yml cada día -->
+<img src="./profile-3d-contrib/profile-night-view.svg" alt="3D contribution calendar" width="100%" />
+
+<!-- Snake — lo regenera .github/workflows/snake.yml cada día -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/andresp08/andresp08/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/andresp08/andresp08/output/github-snake.svg" />
+  <img src="https://raw.githubusercontent.com/andresp08/andresp08/output/github-snake.svg" alt="Snake animation eating my contributions" />
+</picture>
+
+</div>
+
+---
+
+## 🗓️ Coding habits
+
+<div align="center">
+
+<!-- Lo genera .github/workflows/metrics.yml -->
+<img src="./metrics.svg" alt="Isometric calendar and coding habits" width="80%" />
+
+</div>
+
+---
+
+## 📌 What I'm building
+
+<div align="center">
+
+<a href="https://github.com/andresp08/SpringBoot-Facturacion-App">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=andresp08&repo=SpringBoot-Facturacion-App&hide_border=true&theme=github_dark&title_color=58A6FF&icon_color=58A6FF&bg_color=0D1117" alt="SpringBoot-Facturacion-App" />
+</a>
+<a href="https://github.com/andresp08/SpringBoot-library-app">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=andresp08&repo=SpringBoot-library-app&hide_border=true&theme=github_dark&title_color=58A6FF&icon_color=58A6FF&bg_color=0D1117" alt="SpringBoot-library-app" />
+</a>
+<a href="https://github.com/andresp08/PersonalPortfolio">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=andresp08&repo=PersonalPortfolio&hide_border=true&theme=github_dark&title_color=58A6FF&icon_color=58A6FF&bg_color=0D1117" alt="PersonalPortfolio" />
+</a>
+<a href="https://github.com/andresp08/BudgetReactApp">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=andresp08&repo=BudgetReactApp&hide_border=true&theme=github_dark&title_color=58A6FF&icon_color=58A6FF&bg_color=0D1117" alt="BudgetReactApp" />
+</a>
+
+</div>
+
+<!-- ══ ACTIVIDAD RECIENTE — la llena .github/workflows/activity.yml ══ -->
+<details>
+<summary><b>⚡ Recent GitHub activity</b></summary>
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+</details>
+
+---
+
+<div align="center">
+
+_Thanks for stopping by — if something here is useful, a ⭐ goes a long way._
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:58A6FF&height=120&section=footer" alt="" width="100%" />
+
+</div>

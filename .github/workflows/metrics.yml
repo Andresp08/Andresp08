@@ -1,0 +1,34 @@
+name: Metrics
+
+on:
+  schedule:
+    - cron: "0 4 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+# Un solo job con varios plugins → un solo commit al día (en vez de dos)
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Isometric calendar + habits
+        uses: lowlighter/metrics@latest
+        with:
+          # PAT clásico con scope `public_repo` (añade `repo` si quieres contar
+          # también repos privados). Guardado como secret METRICS_TOKEN.
+          token: ${{ secrets.METRICS_TOKEN }}
+          filename: metrics.svg
+          user: andresp08
+          base: ""
+          config_timezone: America/Bogota
+
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+
+          plugin_habits: yes
+          plugin_habits_from: 200
+          plugin_habits_days: 14
+          plugin_habits_facts: yes
+          plugin_habits_charts: yes

@@ -1,0 +1,25 @@
+name: Recent activity feed
+
+on:
+  schedule:
+    # Una vez al día → 1 commit (en vez de 4)
+    - cron: "45 3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  activity:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      # Rellena la región entre <!--START_SECTION:activity--> y
+      # <!--END_SECTION:activity--> con tus últimos eventos públicos.
+      - uses: jamesgeorge007/github-activity-readme@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          COMMIT_MSG: "chore: update recent activity"
+          MAX_LINES: 8
