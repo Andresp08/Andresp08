@@ -67,9 +67,9 @@ public record Andres(String role, String base, List<String> stack) {
 <!-- WEATHER:START -->
 | 🌦️ Condition | 🌡️ Temp | 🤔 Feels like | 💧 Humidity | 💨 Wind | 🌅 Sunrise | 🌇 Sunset |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| Light Rain | 19°C | 20°C | 96% | 0.6 m/s | 05:39 | 17:42 |
+| Light Rain | 26°C | 26°C | 62% | 1.4 m/s | 05:39 | 17:42 |
 
-<sub>📍 San Gil · last updated Saturday, 03 Oct 2026 at 06:09 (auto-refreshed every 6h by GitHub Actions)</sub>
+<sub>📍 San Gil · last updated Saturday, 03 Oct 2026 at 10:45 (auto-refreshed every 6h by GitHub Actions)</sub>
 <!-- WEATHER:END -->
 
 </div>
