@@ -65,11 +65,11 @@ public record Andres(String role, String base, List<String> stack) {
 ### ⛅ Right now in San Gil
 
 <!-- WEATHER:START -->
-| 🌧️ Condition | 🌡️ Temp | 🤔 Feels like | 💧 Humidity | 💨 Wind | 🌅 Sunrise | 🌇 Sunset |
+| ☁️ Condition | 🌡️ Temp | 🤔 Feels like | 💧 Humidity | 💨 Wind | 🌅 Sunrise | 🌇 Sunset |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| Moderate Rain | 22°C | 23°C | 89% | 1.1 m/s | 05:39 | 17:32 |
+| Overcast Clouds | 20°C | 20°C | 96% | 0.3 m/s | 05:39 | 17:32 |
 
-<sub>📍 San Gil · last updated Tuesday, 03 Nov 2026 at 17:55 (auto-refreshed every 6h by GitHub Actions)</sub>
+<sub>📍 San Gil · last updated Tuesday, 03 Nov 2026 at 23:57 (auto-refreshed every 6h by GitHub Actions)</sub>
 <!-- WEATHER:END -->
 
 </div>
